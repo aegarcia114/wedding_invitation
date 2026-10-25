@@ -1,0 +1,44 @@
+
+body {
+  background: #faf6ef;
+  color: #554a40;
+  font-family: Georgia, serif;
+  text-align: center;
+  margin: 0;
+  padding: 30px 15px;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-weight: normal;
+}
+
+h2 {
+  margin-top: 45px;
+}
+
+.photo {
+  width: 100%;
+  max-width: 450px;
+  border-radius: 12px;
+}
+
+#countdown {
+  font-size: 1.6rem;
+  margin: 25px 0;
+}
+
+.button {
+  display: inline-block;
+  background: #8b9475;
+  color: white;
+  padding: 15px 35px;
+  text-decoration: none;
+  border-radius: 30px;
+  margin: 20px;
+}
